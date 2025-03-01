@@ -1,0 +1,2 @@
+# AutoWord
+这是一个每隔三十秒自动帮你保存在本地的小程序。点击exe文件会帮你在同目录自动创建workingdocument文档，和SyncBAckup文档。在SyncBAckup文档里面有自动保存最新30s所编辑的，只留存了最新的文件，没有历史文件。防止写到一半的论文丢失。
